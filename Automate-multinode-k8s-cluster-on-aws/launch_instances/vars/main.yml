@@ -1,0 +1,15 @@
+---
+# vars file for launch_instances
+reg: ""
+img_id: ""
+i_type: ""
+vpcsi: ""
+key: ""
+sg_group: ""
+aws_ak: ""
+aws_sk: ""
+vol_size: ""
+os_Name: 
+   - "Master"
+   - "Slave"
+   - "Slave"
